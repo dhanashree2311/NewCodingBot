@@ -1,0 +1,2 @@
+# NewcCodingBot
+first repo
